@@ -1,0 +1,1140 @@
+
+================================================================================
+WEBSITE COMMUNITY: Bellhaven of Maplewood
+================================================================================
+
+WEBSITE DETAILS:
+{'name': 'Bellhaven of Maplewood', 'street_address': '210 Orchard Lane', 'detail_city': 'Maplewood', 'detail_state': 'OH', 'zip_code': '44280', 'detail_care_offerings': ['Assisted Living'], 'phone': '(614) 250-9447'}
+
+MATCHING SUMMARY:
+{'review_flag': 'strong_candidate', 'score_gap': 39.8, 'review_candidate_count': 1}
+
+CRM CANDIDATE #1:
+{'account_id': '001L3LGR6W69J8DYYV', 'name': 'Bellhaven of Maplewood', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '210 Orchard Ln', 'billing_city': 'Maplewood', 'billing_state': 'OH', 'billing_zip': '44280', 'care_type': 'Assisted Living', 'phone': '(614) 250-9447', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 100.0, 'evidence_coverage': 100.0, 'classification': 'strong_candidate', 'location_conflicts': [], 'supporting_evidence': {'phone': {'website_value': '6142509447', 'crm_value': '6142509447', 'status': 'exact_match'}, 'care_type': {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of maplewood",
+    "crm_value": "bellhaven of maplewood",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 25,
+    "weighted_points": 25.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "street",
+    "website_value": "210 orchard ln",
+    "crm_value": "210 orchard ln",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 35,
+    "weighted_points": 35.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "zip",
+    "website_value": "44280",
+    "crm_value": "44280",
+    "available": true,
+    "similarity": 100,
+    "weight": 20,
+    "weighted_points": 20.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "city",
+    "website_value": "maplewood",
+    "crm_value": "maplewood",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #2:
+{'account_id': '0019M1Z45PGV2DJ971', 'name': 'Maplewood Senior Care Center', 'parent_id': '00139TNDS8HNLUZ5A6', 'parent_name': 'Stonebridge Eldercare (Parent Account)', 'billing_street': '431 Main St', 'billing_city': 'Maplewood', 'billing_state': 'OH', 'billing_zip': '44280', 'care_type': 'Skilled Nursing', 'phone': '(614) 773-5688', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 60.2, 'evidence_coverage': 100.0, 'classification': 'weak_candidate', 'location_conflicts': [], 'supporting_evidence': {'phone': {'website_value': '6142509447', 'crm_value': '6147735688', 'status': 'mismatch'}, 'care_type': {'website_value': ['assisted living'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of maplewood",
+    "crm_value": "maplewood senior care center",
+    "available": true,
+    "similarity": 36.0,
+    "weight": 25,
+    "weighted_points": 9.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "210 orchard ln",
+    "crm_value": "431 main st",
+    "available": true,
+    "similarity": 32.0,
+    "weight": 35,
+    "weighted_points": 11.2,
+    "status": "mismatch"
+  },
+  {
+    "field": "zip",
+    "website_value": "44280",
+    "crm_value": "44280",
+    "available": true,
+    "similarity": 100,
+    "weight": 20,
+    "weighted_points": 20.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "city",
+    "website_value": "maplewood",
+    "crm_value": "maplewood",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #3:
+{'account_id': '001W5G121A7SMRP58M', 'name': 'Bellhaven of Wooster', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '2301 Cleveland Rd', 'billing_city': 'Wooster', 'billing_state': 'OH', 'billing_zip': '44691', 'care_type': 'Skilled Nursing', 'phone': '(517) 712-7557', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 44.86, 'evidence_coverage': 100.0, 'classification': 'location_conflict', 'location_conflicts': [{'field': 'zip', 'website_value': '44280', 'crm_value': '44691', 'reason': 'ZIP code values differ.'}], 'supporting_evidence': {'phone': {'website_value': '6142509447', 'crm_value': '5177127557', 'status': 'mismatch'}, 'care_type': {'website_value': ['assisted living'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of maplewood",
+    "crm_value": "bellhaven of wooster",
+    "available": true,
+    "similarity": 76.19,
+    "weight": 25,
+    "weighted_points": 19.05,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "210 orchard ln",
+    "crm_value": "2301 cleveland rd",
+    "available": true,
+    "similarity": 45.16,
+    "weight": 35,
+    "weighted_points": 15.81,
+    "status": "mismatch"
+  },
+  {
+    "field": "zip",
+    "website_value": "44280",
+    "crm_value": "44691",
+    "available": true,
+    "similarity": 0,
+    "weight": 20,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "city",
+    "website_value": "maplewood",
+    "crm_value": "wooster",
+    "available": true,
+    "similarity": 0,
+    "weight": 10,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+================================================================================
+WEBSITE COMMUNITY: Bellhaven of Portsmouth
+================================================================================
+
+WEBSITE DETAILS:
+{'name': 'Bellhaven of Portsmouth', 'street_address': '2222 Gallia St', 'detail_city': 'Portsmouth', 'detail_state': 'OH', 'zip_code': '45662', 'detail_care_offerings': ['Short-Term Rehabilitation & Nursing'], 'phone': '(330) 431-2495'}
+
+MATCHING SUMMARY:
+{'review_flag': 'location_conflict', 'score_gap': 37.84, 'review_candidate_count': 1}
+
+CRM CANDIDATE #1:
+{'account_id': '001CF3LDWVRGL09P4F', 'name': 'Bellhaven of Portsmouth', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '2222 Gallia St', 'billing_city': 'Portsmouth', 'billing_state': 'OH', 'billing_zip': '45626', 'care_type': 'Skilled Nursing', 'phone': '(330) 431-2495', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 80.0, 'evidence_coverage': 100.0, 'classification': 'location_conflict', 'location_conflicts': [{'field': 'zip', 'website_value': '45662', 'crm_value': '45626', 'reason': 'ZIP code values differ.'}], 'supporting_evidence': {'phone': {'website_value': '3304312495', 'crm_value': '3304312495', 'status': 'exact_match'}, 'care_type': {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of portsmouth",
+    "crm_value": "bellhaven of portsmouth",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 25,
+    "weighted_points": 25.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "street",
+    "website_value": "2222 gallia st",
+    "crm_value": "2222 gallia st",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 35,
+    "weighted_points": 35.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "zip",
+    "website_value": "45662",
+    "crm_value": "45626",
+    "available": true,
+    "similarity": 0,
+    "weight": 20,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "city",
+    "website_value": "portsmouth",
+    "crm_value": "portsmouth",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #2:
+{'account_id': '001W5G121A7SMRP58M', 'name': 'Bellhaven of Wooster', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '2301 Cleveland Rd', 'billing_city': 'Wooster', 'billing_state': 'OH', 'billing_zip': '44691', 'care_type': 'Skilled Nursing', 'phone': '(517) 712-7557', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 42.16, 'evidence_coverage': 100.0, 'classification': 'location_conflict', 'location_conflicts': [{'field': 'zip', 'website_value': '45662', 'crm_value': '44691', 'reason': 'ZIP code values differ.'}], 'supporting_evidence': {'phone': {'website_value': '3304312495', 'crm_value': '5177127557', 'status': 'mismatch'}, 'care_type': {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of portsmouth",
+    "crm_value": "bellhaven of wooster",
+    "available": true,
+    "similarity": 74.42,
+    "weight": 25,
+    "weighted_points": 18.61,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "2222 gallia st",
+    "crm_value": "2301 cleveland rd",
+    "available": true,
+    "similarity": 38.71,
+    "weight": 35,
+    "weighted_points": 13.55,
+    "status": "mismatch"
+  },
+  {
+    "field": "zip",
+    "website_value": "45662",
+    "crm_value": "44691",
+    "available": true,
+    "similarity": 0,
+    "weight": 20,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "city",
+    "website_value": "portsmouth",
+    "crm_value": "wooster",
+    "available": true,
+    "similarity": 0,
+    "weight": 10,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #3:
+{'account_id': '001AQGPZ5G5VRES536', 'name': 'Bellhaven of New Carlisle', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '875 Elm St', 'billing_city': 'New Carlisle', 'billing_state': 'OH', 'billing_zip': '45344', 'care_type': 'Skilled Nursing', 'phone': '(614) 900-2177', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 40.2, 'evidence_coverage': 100.0, 'classification': 'location_conflict', 'location_conflicts': [{'field': 'zip', 'website_value': '45662', 'crm_value': '45344', 'reason': 'ZIP code values differ.'}], 'supporting_evidence': {'phone': {'website_value': '3304312495', 'crm_value': '6149002177', 'status': 'mismatch'}, 'care_type': {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of portsmouth",
+    "crm_value": "bellhaven of new carlisle",
+    "available": true,
+    "similarity": 62.5,
+    "weight": 25,
+    "weighted_points": 15.62,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "2222 gallia st",
+    "crm_value": "875 elm st",
+    "available": true,
+    "similarity": 41.67,
+    "weight": 35,
+    "weighted_points": 14.58,
+    "status": "mismatch"
+  },
+  {
+    "field": "zip",
+    "website_value": "45662",
+    "crm_value": "45344",
+    "available": true,
+    "similarity": 0,
+    "weight": 20,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "city",
+    "website_value": "portsmouth",
+    "crm_value": "new carlisle",
+    "available": true,
+    "similarity": 0,
+    "weight": 10,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+================================================================================
+WEBSITE COMMUNITY: Bellhaven of Owosso
+================================================================================
+
+WEBSITE DETAILS:
+{'name': 'Bellhaven of Owosso', 'street_address': '1120 W Main St', 'detail_city': 'Owosso', 'detail_state': 'MI', 'zip_code': '48867', 'detail_care_offerings': ['Assisted Living'], 'phone': '(734) 503-1363'}
+
+MATCHING SUMMARY:
+{'review_flag': 'ambiguous_top_candidates', 'score_gap': 0.0, 'review_candidate_count': 2}
+
+CRM CANDIDATE #1:
+{'account_id': '001EGU7BMJ942ZTRE6', 'name': 'Bellhaven of Owosso', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '1120 W Main St', 'billing_city': 'Owosso', 'billing_state': 'MI', 'billing_zip': '48867', 'care_type': 'Assisted Living', 'phone': '(734) 503-1363', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 100.0, 'evidence_coverage': 100.0, 'classification': 'strong_candidate', 'location_conflicts': [], 'supporting_evidence': {'phone': {'website_value': '7345031363', 'crm_value': '7345031363', 'status': 'exact_match'}, 'care_type': {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of owosso",
+    "crm_value": "bellhaven of owosso",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 25,
+    "weighted_points": 25.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "street",
+    "website_value": "1120 w main st",
+    "crm_value": "1120 w main st",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 35,
+    "weighted_points": 35.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "zip",
+    "website_value": "48867",
+    "crm_value": "48867",
+    "available": true,
+    "similarity": 100,
+    "weight": 20,
+    "weighted_points": 20.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "city",
+    "website_value": "owosso",
+    "crm_value": "owosso",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "state",
+    "website_value": "MI",
+    "crm_value": "MI",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #2:
+{'account_id': '001QU150PM4Z15UA71', 'name': 'Bellhaven of Owosso', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '1120 West Main Street', 'billing_city': 'Owosso', 'billing_state': 'MI', 'billing_zip': '48867', 'care_type': 'Assisted Living', 'phone': '(330) 383-5991', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 100.0, 'evidence_coverage': 100.0, 'classification': 'strong_candidate', 'location_conflicts': [], 'supporting_evidence': {'phone': {'website_value': '7345031363', 'crm_value': '3303835991', 'status': 'mismatch'}, 'care_type': {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of owosso",
+    "crm_value": "bellhaven of owosso",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 25,
+    "weighted_points": 25.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "street",
+    "website_value": "1120 w main st",
+    "crm_value": "1120 w main st",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 35,
+    "weighted_points": 35.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "zip",
+    "website_value": "48867",
+    "crm_value": "48867",
+    "available": true,
+    "similarity": 100,
+    "weight": 20,
+    "weighted_points": 20.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "city",
+    "website_value": "owosso",
+    "crm_value": "owosso",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "state",
+    "website_value": "MI",
+    "crm_value": "MI",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #3:
+{'account_id': '001MVVAPY6U5TVYRC4', 'name': 'Bellhaven of Saline', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '980 West Michigan Avenue', 'billing_city': 'Saline', 'billing_state': 'MI', 'billing_zip': '48176', 'care_type': 'Skilled Nursing', 'phone': '(614) 868-2766', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 45.92, 'evidence_coverage': 100.0, 'classification': 'location_conflict', 'location_conflicts': [{'field': 'zip', 'website_value': '48867', 'crm_value': '48176', 'reason': 'ZIP code values differ.'}], 'supporting_evidence': {'phone': {'website_value': '7345031363', 'crm_value': '6148682766', 'status': 'mismatch'}, 'care_type': {'website_value': ['assisted living'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of owosso",
+    "crm_value": "bellhaven of saline",
+    "available": true,
+    "similarity": 73.68,
+    "weight": 25,
+    "weighted_points": 18.42,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "1120 w main st",
+    "crm_value": "980 w michigan ave",
+    "available": true,
+    "similarity": 50.0,
+    "weight": 35,
+    "weighted_points": 17.5,
+    "status": "mismatch"
+  },
+  {
+    "field": "zip",
+    "website_value": "48867",
+    "crm_value": "48176",
+    "available": true,
+    "similarity": 0,
+    "weight": 20,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "city",
+    "website_value": "owosso",
+    "crm_value": "saline",
+    "available": true,
+    "similarity": 0,
+    "weight": 10,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "state",
+    "website_value": "MI",
+    "crm_value": "MI",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+================================================================================
+WEBSITE COMMUNITY: Bellhaven of Kettering
+================================================================================
+
+WEBSITE DETAILS:
+{'name': 'Bellhaven of Kettering', 'street_address': '3313 Wilmington Pike', 'detail_city': 'Kettering', 'detail_state': 'OH', 'zip_code': '45429', 'detail_care_offerings': ['Short-Term Rehabilitation & Nursing'], 'phone': '(231) 269-5449'}
+
+MATCHING SUMMARY:
+{'review_flag': 'ambiguous_top_candidates', 'score_gap': 1.2, 'review_candidate_count': 3}
+
+CRM CANDIDATE #1:
+{'account_id': '001WR41PYNWXCAE2X4', 'name': 'Kettering Care Centre', 'parent_id': '001FJZYHR7MLFMNPLL', 'parent_name': 'Harborview Care Group (Parent Account)', 'billing_street': '3313 Wilmington Pike', 'billing_city': 'Kettering', 'billing_state': 'OH', 'billing_zip': '45429', 'care_type': 'Skilled Nursing', 'phone': '(419) 600-2603', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 85.46, 'evidence_coverage': 100.0, 'classification': 'strong_candidate', 'location_conflicts': [], 'supporting_evidence': {'phone': {'website_value': '2312695449', 'crm_value': '4196002603', 'status': 'mismatch'}, 'care_type': {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of kettering",
+    "crm_value": "kettering care centre",
+    "available": true,
+    "similarity": 41.86,
+    "weight": 25,
+    "weighted_points": 10.46,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "3313 wilmington pike",
+    "crm_value": "3313 wilmington pike",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 35,
+    "weighted_points": 35.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "zip",
+    "website_value": "45429",
+    "crm_value": "45429",
+    "available": true,
+    "similarity": 100,
+    "weight": 20,
+    "weighted_points": 20.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "city",
+    "website_value": "kettering",
+    "crm_value": "kettering",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #2:
+{'account_id': '0016KTS1UAWBRXS09J', 'name': 'Kettering Nursing & Rehabilitation', 'parent_id': '', 'parent_name': '', 'billing_street': '3313 Wilmington Pike', 'billing_city': 'Kettering', 'billing_state': 'OH', 'billing_zip': '45429', 'care_type': 'Skilled Nursing', 'phone': '(216) 345-3441', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 84.26, 'evidence_coverage': 100.0, 'classification': 'possible_candidate', 'location_conflicts': [], 'supporting_evidence': {'phone': {'website_value': '2312695449', 'crm_value': '2163453441', 'status': 'mismatch'}, 'care_type': {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of kettering",
+    "crm_value": "kettering nursing rehabilitation",
+    "available": true,
+    "similarity": 37.04,
+    "weight": 25,
+    "weighted_points": 9.26,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "3313 wilmington pike",
+    "crm_value": "3313 wilmington pike",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 35,
+    "weighted_points": 35.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "zip",
+    "website_value": "45429",
+    "crm_value": "45429",
+    "available": true,
+    "similarity": 100,
+    "weight": 20,
+    "weighted_points": 20.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "city",
+    "website_value": "kettering",
+    "crm_value": "kettering",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #3:
+{'account_id': '001B7XZAA3AFALS9GP', 'name': 'Kettering Senior Campus', 'parent_id': '001FWSQ30SFW6S7604', 'parent_name': 'Cedar Trail Communities (Parent Account)', 'billing_street': '3313 Wilmington Pk', 'billing_city': 'Kettering', 'billing_state': 'OH', 'billing_zip': '45429', 'care_type': 'Skilled Nursing', 'phone': '(517) 646-8751', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 83.16, 'evidence_coverage': 100.0, 'classification': 'possible_candidate', 'location_conflicts': [], 'supporting_evidence': {'phone': {'website_value': '2312695449', 'crm_value': '5176468751', 'status': 'mismatch'}, 'care_type': {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of kettering",
+    "crm_value": "kettering senior campus",
+    "available": true,
+    "similarity": 40.0,
+    "weight": 25,
+    "weighted_points": 10.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "3313 wilmington pike",
+    "crm_value": "3313 wilmington pk",
+    "available": true,
+    "similarity": 94.74,
+    "weight": 35,
+    "weighted_points": 33.16,
+    "status": "close_match"
+  },
+  {
+    "field": "zip",
+    "website_value": "45429",
+    "crm_value": "45429",
+    "available": true,
+    "similarity": 100,
+    "weight": 20,
+    "weighted_points": 20.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "city",
+    "website_value": "kettering",
+    "crm_value": "kettering",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+================================================================================
+WEBSITE COMMUNITY: Bellhaven of Chagrin Falls
+================================================================================
+
+WEBSITE DETAILS:
+{'name': 'Bellhaven of Chagrin Falls', 'street_address': '150 River St', 'detail_city': 'Chagrin Falls', 'detail_state': 'OH', 'zip_code': '44022', 'detail_care_offerings': ['Assisted Living'], 'phone': '(231) 283-7448'}
+
+MATCHING SUMMARY:
+{'review_flag': 'possible_candidate', 'score_gap': 37.7, 'review_candidate_count': 1}
+
+CRM CANDIDATE #1:
+{'account_id': '001RJU1X4NBWC1Q0G7', 'name': 'Riverbend Manor Care Center', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '150 River St', 'billing_city': 'Chagrin Falls', 'billing_state': 'OH', 'billing_zip': '44022', 'care_type': 'Assisted Living', 'phone': '(517) 457-9548', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 84.44, 'evidence_coverage': 100.0, 'classification': 'possible_candidate', 'location_conflicts': [], 'supporting_evidence': {'phone': {'website_value': '2312837448', 'crm_value': '5174579548', 'status': 'mismatch'}, 'care_type': {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of chagrin falls",
+    "crm_value": "riverbend manor care center",
+    "available": true,
+    "similarity": 37.74,
+    "weight": 25,
+    "weighted_points": 9.44,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "150 river st",
+    "crm_value": "150 river st",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 35,
+    "weighted_points": 35.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "zip",
+    "website_value": "44022",
+    "crm_value": "44022",
+    "available": true,
+    "similarity": 100,
+    "weight": 20,
+    "weighted_points": 20.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "city",
+    "website_value": "chagrin falls",
+    "crm_value": "chagrin falls",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #2:
+{'account_id': '001AQGPZ5G5VRES536', 'name': 'Bellhaven of New Carlisle', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '875 Elm St', 'billing_city': 'New Carlisle', 'billing_state': 'OH', 'billing_zip': '45344', 'care_type': 'Skilled Nursing', 'phone': '(614) 900-2177', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 46.74, 'evidence_coverage': 100.0, 'classification': 'location_conflict', 'location_conflicts': [{'field': 'zip', 'website_value': '44022', 'crm_value': '45344', 'reason': 'ZIP code values differ.'}], 'supporting_evidence': {'phone': {'website_value': '2312837448', 'crm_value': '6149002177', 'status': 'mismatch'}, 'care_type': {'website_value': ['assisted living'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of chagrin falls",
+    "crm_value": "bellhaven of new carlisle",
+    "available": true,
+    "similarity": 70.59,
+    "weight": 25,
+    "weighted_points": 17.65,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "150 river st",
+    "crm_value": "875 elm st",
+    "available": true,
+    "similarity": 54.55,
+    "weight": 35,
+    "weighted_points": 19.09,
+    "status": "mismatch"
+  },
+  {
+    "field": "zip",
+    "website_value": "44022",
+    "crm_value": "45344",
+    "available": true,
+    "similarity": 0,
+    "weight": 20,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "city",
+    "website_value": "chagrin falls",
+    "crm_value": "new carlisle",
+    "available": true,
+    "similarity": 0,
+    "weight": 10,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #3:
+{'account_id': '001LGFPBJY4N9MB6KL', 'name': 'Bellhaven Crossings of Lima', 'parent_id': '001FJZYHR7MLFMNPLL', 'parent_name': 'Harborview Care Group (Parent Account)', 'billing_street': '3115 N Cole St', 'billing_city': 'Lima', 'billing_state': 'OH', 'billing_zip': '45801', 'care_type': 'Assisted Living', 'phone': '(734) 872-9575', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 44.89, 'evidence_coverage': 100.0, 'classification': 'location_conflict', 'location_conflicts': [{'field': 'zip', 'website_value': '44022', 'crm_value': '45801', 'reason': 'ZIP code values differ.'}], 'supporting_evidence': {'phone': {'website_value': '2312837448', 'crm_value': '7348729575', 'status': 'mismatch'}, 'care_type': {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven of chagrin falls",
+    "crm_value": "bellhaven crossings of lima",
+    "available": true,
+    "similarity": 64.15,
+    "weight": 25,
+    "weighted_points": 16.04,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "150 river st",
+    "crm_value": "3115 n cole st",
+    "available": true,
+    "similarity": 53.85,
+    "weight": 35,
+    "weighted_points": 18.85,
+    "status": "mismatch"
+  },
+  {
+    "field": "zip",
+    "website_value": "44022",
+    "crm_value": "45801",
+    "available": true,
+    "similarity": 0,
+    "weight": 20,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "city",
+    "website_value": "chagrin falls",
+    "crm_value": "lima",
+    "available": true,
+    "similarity": 0,
+    "weight": 10,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "state",
+    "website_value": "OH",
+    "crm_value": "OH",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+================================================================================
+WEBSITE COMMUNITY: Bellhaven Willow Creek
+================================================================================
+
+WEBSITE DETAILS:
+{'name': 'Bellhaven Willow Creek', 'street_address': '8060 Willow Creek Ln', 'detail_city': 'Portage', 'detail_state': 'MI', 'zip_code': '49024', 'detail_care_offerings': ['Memory Support'], 'phone': '(419) 394-5494'}
+
+MATCHING SUMMARY:
+{'review_flag': 'possible_candidate', 'score_gap': 43.4, 'review_candidate_count': 1}
+
+CRM CANDIDATE #1:
+{'account_id': '0017MN2JYAJBDS8WQZ', 'name': 'Sunny Acres Retirement Home', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '8060 Willow Creek Lane', 'billing_city': 'Portage', 'billing_state': 'MI', 'billing_zip': '49024', 'care_type': 'Memory Care', 'phone': '(216) 898-7925', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 82.14, 'evidence_coverage': 100.0, 'classification': 'possible_candidate', 'location_conflicts': [], 'supporting_evidence': {'phone': {'website_value': '4193945494', 'crm_value': '2168987925', 'status': 'mismatch'}, 'care_type': {'website_value': ['memory support'], 'crm_value': ['memory care'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven willow creek",
+    "crm_value": "sunny acres retirement home",
+    "available": true,
+    "similarity": 28.57,
+    "weight": 25,
+    "weighted_points": 7.14,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "8060 willow creek ln",
+    "crm_value": "8060 willow creek ln",
+    "available": true,
+    "similarity": 100.0,
+    "weight": 35,
+    "weighted_points": 35.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "zip",
+    "website_value": "49024",
+    "crm_value": "49024",
+    "available": true,
+    "similarity": 100,
+    "weight": 20,
+    "weighted_points": 20.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "city",
+    "website_value": "portage",
+    "crm_value": "portage",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  },
+  {
+    "field": "state",
+    "website_value": "MI",
+    "crm_value": "MI",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #2:
+{'account_id': '001MVVAPY6U5TVYRC4', 'name': 'Bellhaven of Saline', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '980 West Michigan Avenue', 'billing_city': 'Saline', 'billing_state': 'MI', 'billing_zip': '48176', 'care_type': 'Skilled Nursing', 'phone': '(614) 868-2766', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 38.74, 'evidence_coverage': 100.0, 'classification': 'location_conflict', 'location_conflicts': [{'field': 'zip', 'website_value': '49024', 'crm_value': '48176', 'reason': 'ZIP code values differ.'}], 'supporting_evidence': {'phone': {'website_value': '4193945494', 'crm_value': '6148682766', 'status': 'mismatch'}, 'care_type': {'website_value': ['memory support'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven willow creek",
+    "crm_value": "bellhaven of saline",
+    "available": true,
+    "similarity": 63.41,
+    "weight": 25,
+    "weighted_points": 15.85,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "8060 willow creek ln",
+    "crm_value": "980 w michigan ave",
+    "available": true,
+    "similarity": 36.84,
+    "weight": 35,
+    "weighted_points": 12.89,
+    "status": "mismatch"
+  },
+  {
+    "field": "zip",
+    "website_value": "49024",
+    "crm_value": "48176",
+    "available": true,
+    "similarity": 0,
+    "weight": 20,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "city",
+    "website_value": "portage",
+    "crm_value": "saline",
+    "available": true,
+    "similarity": 0,
+    "weight": 10,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "state",
+    "website_value": "MI",
+    "crm_value": "MI",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]
+
+CRM CANDIDATE #3:
+{'account_id': '001NSHWKQD0YJLPQ20', 'name': 'Bellhaven of Kalamazoo', 'parent_id': '0015QAPLGS3FVYEEEM', 'parent_name': 'Bellhaven Senior Living (Parent Account)', 'billing_street': '3222 Gull Road', 'billing_city': 'Kalamazoo', 'billing_state': 'MI', 'billing_zip': '49048', 'care_type': 'Skilled Nursing', 'phone': '(231) 460-1964', 'status': 'Active', 'duplicate_of_account': ''}
+
+MATCHING EVIDENCE:
+{'score': 35.71, 'evidence_coverage': 100.0, 'classification': 'location_conflict', 'location_conflicts': [{'field': 'zip', 'website_value': '49024', 'crm_value': '49048', 'reason': 'ZIP code values differ.'}], 'supporting_evidence': {'phone': {'website_value': '4193945494', 'crm_value': '2314601964', 'status': 'mismatch'}, 'care_type': {'website_value': ['memory support'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}}}
+
+FIELD-LEVEL COMPARISON:
+[
+  {
+    "field": "name",
+    "website_value": "bellhaven willow creek",
+    "crm_value": "bellhaven of kalamazoo",
+    "available": true,
+    "similarity": 59.09,
+    "weight": 25,
+    "weighted_points": 14.77,
+    "status": "mismatch"
+  },
+  {
+    "field": "street",
+    "website_value": "8060 willow creek ln",
+    "crm_value": "3222 gull rd",
+    "available": true,
+    "similarity": 31.25,
+    "weight": 35,
+    "weighted_points": 10.94,
+    "status": "mismatch"
+  },
+  {
+    "field": "zip",
+    "website_value": "49024",
+    "crm_value": "49048",
+    "available": true,
+    "similarity": 0,
+    "weight": 20,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "city",
+    "website_value": "portage",
+    "crm_value": "kalamazoo",
+    "available": true,
+    "similarity": 0,
+    "weight": 10,
+    "weighted_points": 0.0,
+    "status": "mismatch"
+  },
+  {
+    "field": "state",
+    "website_value": "MI",
+    "crm_value": "MI",
+    "available": true,
+    "similarity": 100,
+    "weight": 10,
+    "weighted_points": 10.0,
+    "status": "exact_match"
+  }
+]

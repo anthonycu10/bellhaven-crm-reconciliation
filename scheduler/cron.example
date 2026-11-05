@@ -1,0 +1,7 @@
+# Bellhaven daily reconciliation
+# Runs every day at 6:00 AM in the machine's local timezone.
+# Replace /ABSOLUTE/PATH/bellhaven-assessment with your actual project path.
+# This command only refreshes reconciliation data and review proposals.
+# It never automatically writes changes to the CRM.
+
+0 6 * * * cd /ABSOLUTE/PATH/bellhaven-assessment && /ABSOLUTE/PATH/bellhaven-assessment/.venv/bin/python main.py >> /ABSOLUTE/PATH/bellhaven-assessment/logs/daily.log 2>&1

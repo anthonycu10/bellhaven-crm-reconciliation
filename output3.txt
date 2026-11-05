@@ -1,0 +1,1782 @@
+
+====================================================================================================
+WEBSITE: Bellhaven of New Carlisle
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 57.52
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of New Carlisle
+ID: 001AQGPZ5G5VRES536
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of new carlisle           CRM=bellhaven of new carlisle           status=exact_match     similarity=100.0
+  street       website=875 elm st                          CRM=875 elm st                          status=exact_match     similarity=100.0
+  zip          website=45344                               CRM=45344                               status=exact_match     similarity=100
+  city         website=new carlisle                        CRM=new carlisle                        status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '6149002177', 'crm_value': '6149002177', 'status': 'exact_match'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of New Carlisle | ID: 001AQGPZ5G5VRES536 | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 42.48 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=73.91
+    street       status=mismatch        similarity=40.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Crossings of Lima | ID: 001LGFPBJY4N9MB6KL | score: 41.92 | parent: Harborview Care Group (Parent Account)
+    name         status=mismatch        similarity=57.69
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Sandusky | ID: 001SXSF4ELF0Z2LGDM | score: 41.85 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=65.22
+    street       status=mismatch        similarity=44.44
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Care Center of Alliance | ID: 00116ETS45BL7DTQP7 | score: 41.07 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=62.07
+    street       status=mismatch        similarity=44.44
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Wooster
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 55.14
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Wooster
+ID: 001W5G121A7SMRP58M
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of wooster                CRM=bellhaven of wooster                status=exact_match     similarity=100.0
+  street       website=2301 cleveland rd                   CRM=2301 cleveland rd                   status=exact_match     similarity=100.0
+  zip          website=44691                               CRM=44691                               status=exact_match     similarity=100
+  city         website=wooster                             CRM=wooster                             status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '5177127557', 'crm_value': '5177127557', 'status': 'exact_match'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Wooster | ID: 001W5G121A7SMRP58M | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Maplewood | ID: 001L3LGR6W69J8DYYV | score: 44.86 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=76.19
+    street       status=mismatch        similarity=45.16
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 44.57 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=68.29
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Defiance | ID: 001R4PXTUD9R6FNN8V | score: 44.04 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=68.29
+    street       status=mismatch        similarity=48.48
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Portsmouth | ID: 001CF3LDWVRGL09P4F | score: 42.16 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=74.42
+    street       status=mismatch        similarity=38.71
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Saline
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 39.71
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Saline
+ID: 001MVVAPY6U5TVYRC4
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of saline                 CRM=bellhaven of saline                 status=exact_match     similarity=100.0
+  street       website=980 w michigan ave                  CRM=980 w michigan ave                  status=exact_match     similarity=100.0
+  zip          website=48176                               CRM=48176                               status=exact_match     similarity=100
+  city         website=saline                              CRM=saline                              status=exact_match     similarity=100
+  state        website=MI                                  CRM=MI                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '6148682766', 'crm_value': '6148682766', 'status': 'exact_match'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Saline | ID: 001MVVAPY6U5TVYRC4 | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Coldwater | ID: 0016PVXH4B25HWR7QE | score: 60.29 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=73.17
+    street       status=close_match     similarity=91.43
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Owosso | ID: 001EGU7BMJ942ZTRE6 | score: 45.92 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=73.68
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Owosso | ID: 001QU150PM4Z15UA71 | score: 45.92 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=73.68
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Woods of Toledo | ID: 0014DHACE6WQU3RMM5 | score: 37.31 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=68.18
+    street       status=mismatch        similarity=57.89
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=mismatch        similarity=0
+
+====================================================================================================
+WEBSITE: Bellhaven of Goshen
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 62.16
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['phone']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Goshen
+ID: 001JQER1RMYKNRLNME
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of goshen                 CRM=bellhaven of goshen                 status=exact_match     similarity=100.0
+  street       website=1610 college ave                    CRM=1610 college ave                    status=exact_match     similarity=100.0
+  zip          website=46526                               CRM=46526                               status=exact_match     similarity=100
+  city         website=goshen                              CRM=goshen                              status=exact_match     similarity=100
+  state        website=IN                                  CRM=IN                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '3304056040', 'crm_value': '5174098156', 'status': 'mismatch'}
+  care_type: {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}
+
+TOP CANDIDATES
+
+  Bellhaven of Goshen | ID: 001JQER1RMYKNRLNME | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Sandusky | ID: 001SXSF4ELF0Z2LGDM | score: 37.84 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=75.0
+    street       status=mismatch        similarity=54.55
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=mismatch        similarity=0
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 37.82 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=70.0
+    street       status=mismatch        similarity=58.06
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=mismatch        similarity=0
+
+  Golden Gate Health Campus | ID: 001X5Q9PV6ZSZH9QVB | score: 37.27 | parent: 
+    name         status=mismatch        similarity=31.82
+    street       status=mismatch        similarity=55.17
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Health Care Center of Ashland | ID: 001RJ0D7Z5MAZN5HX5 | score: 36.44 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=55.17
+    street       status=mismatch        similarity=64.71
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=mismatch        similarity=0
+
+====================================================================================================
+WEBSITE: Bellhaven of Meadville
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 62.95
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Meadville
+ID: 001KC1NG7EZDEKKA3T
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of meadville              CRM=bellhaven of meadville              status=exact_match     similarity=100.0
+  street       website=341 chestnut st                     CRM=341 chestnut st                     status=exact_match     similarity=100.0
+  zip          website=16335                               CRM=16335                               status=exact_match     similarity=100
+  city         website=meadville                           CRM=meadville                           status=exact_match     similarity=100
+  state        website=PA                                  CRM=PA                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '4198485389', 'crm_value': '4198485389', 'status': 'exact_match'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Meadville | ID: 001KC1NG7EZDEKKA3T | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven Shores of Erie | ID: 001CVBBCSDM7YHN220 | score: 37.05 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=69.57
+    street       status=mismatch        similarity=27.59
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Heritage Nursing & Rehabilitation | ID: 0014GZE6WNGWEC5V2U | score: 35.39 | parent: Stonebridge Eldercare (Parent Account)
+    name         status=mismatch        similarity=33.96
+    street       status=mismatch        similarity=48.28
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Court of Altoona | ID: 0011D2P3CWSHMF81C8 | score: 34.95 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=62.5
+    street       status=mismatch        similarity=26.67
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Crossings of Lima | ID: 001LGFPBJY4N9MB6KL | score: 34.61 | parent: Harborview Care Group (Parent Account)
+    name         status=mismatch        similarity=61.22
+    street       status=mismatch        similarity=55.17
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=mismatch        similarity=0
+
+====================================================================================================
+WEBSITE: Bellhaven of Defiance
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 53.03
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type', 'phone']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Defiance
+ID: 001R4PXTUD9R6FNN8V
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of defiance               CRM=bellhaven of defiance               status=exact_match     similarity=100.0
+  street       website=700 carpenter rd                    CRM=700 carpenter rd                    status=exact_match     similarity=100.0
+  zip          website=43512                               CRM=43512                               status=exact_match     similarity=100
+  city         website=defiance                            CRM=defiance                            status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '3306912711', 'crm_value': '2312384862', 'status': 'mismatch'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Defiance | ID: 001R4PXTUD9R6FNN8V | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Tiffin | ID: 001U6RW32TY0WSXZZB | score: 46.97 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=80.0
+    street       status=mismatch        similarity=48.48
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 45.92 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=71.43
+    street       status=mismatch        similarity=51.61
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Sycamore Ridge | ID: 00191H7JR16471SZ34 | score: 45.09 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=66.67
+    street       status=mismatch        similarity=52.63
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Wooster | ID: 001W5G121A7SMRP58M | score: 44.04 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=68.29
+    street       status=mismatch        similarity=48.48
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven Woods of Toledo
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 56.01
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven Woods of Toledo
+ID: 0014DHACE6WQU3RMM5
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven woods of toledo           CRM=bellhaven woods of toledo           status=exact_match     similarity=100.0
+  street       website=4850 nw sylvania ave                CRM=4850 nw sylvania ave                status=exact_match     similarity=100.0
+  zip          website=43623                               CRM=43623                               status=exact_match     similarity=100
+  city         website=toledo                              CRM=toledo                              status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '7343888242', 'crm_value': '7343888242', 'status': 'exact_match'}
+  care_type: {'website_value': ['memory support'], 'crm_value': ['memory care'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven Woods of Toledo | ID: 0014DHACE6WQU3RMM5 | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven Meadows of Findlay | ID: 001UKEFGADQ8YCZ4YM | score: 43.99 | parent: 
+    name         status=mismatch        similarity=64.15
+    street       status=mismatch        similarity=51.28
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Tiffin | ID: 001U6RW32TY0WSXZZB | score: 41.04 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=63.64
+    street       status=mismatch        similarity=43.24
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Wooster | ID: 001W5G121A7SMRP58M | score: 41.02 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=71.11
+    street       status=mismatch        similarity=37.84
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Care Center of Alliance | ID: 00116ETS45BL7DTQP7 | score: 40.82 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=55.17
+    street       status=mismatch        similarity=48.65
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Marion
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 55.49
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type', 'phone']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Marion
+ID: 0015L38R1Z5947ZZP7
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of marion                 CRM=bellhaven of marion                 status=exact_match     similarity=100.0
+  street       website=199 barks rd w                      CRM=199 barks rd w                      status=exact_match     similarity=100.0
+  zip          website=43302                               CRM=43302                               status=exact_match     similarity=100
+  city         website=marion                              CRM=marion                              status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '5178477948', 'crm_value': '3303143109', 'status': 'mismatch'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Marion | ID: 0015L38R1Z5947ZZP7 | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Maplewood | ID: 001L3LGR6W69J8DYYV | score: 44.51 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=78.05
+    street       status=mismatch        similarity=42.86
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Defiance | ID: 001R4PXTUD9R6FNN8V | score: 42.75 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=75.0
+    street       status=mismatch        similarity=40.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Harvest Hill Care Center | ID: 001U1PFB1Q5HMGTNN1 | score: 42.0 | parent: Juniper Point Healthcare (Parent Account)
+    name         status=mismatch        similarity=41.86
+    street       status=mismatch        similarity=61.54
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Port Clinton | ID: 001UELXDAKFRKB8932 | score: 41.67 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=77.27
+    street       status=mismatch        similarity=35.29
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Kalamazoo
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 61.79
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Kalamazoo
+ID: 001NSHWKQD0YJLPQ20
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of kalamazoo              CRM=bellhaven of kalamazoo              status=exact_match     similarity=100.0
+  street       website=3222 gull rd                        CRM=3222 gull rd                        status=exact_match     similarity=100.0
+  zip          website=49048                               CRM=49048                               status=exact_match     similarity=100
+  city         website=kalamazoo                           CRM=kalamazoo                           status=exact_match     similarity=100
+  state        website=MI                                  CRM=MI                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '2314601964', 'crm_value': '2314601964', 'status': 'exact_match'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Kalamazoo | ID: 001NSHWKQD0YJLPQ20 | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Portsmouth | ID: 001CF3LDWVRGL09P4F | score: 38.21 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=66.67
+    street       status=mismatch        similarity=61.54
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=mismatch        similarity=0
+
+  Bellhaven Gardens of Monroe | ID: 001U1750VLVJAGG1S5 | score: 37.1 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=65.31
+    street       status=mismatch        similarity=30.77
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Owosso | ID: 001EGU7BMJ942ZTRE6 | score: 36.37 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=73.17
+    street       status=mismatch        similarity=23.08
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Owosso | ID: 001QU150PM4Z15UA71 | score: 36.37 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=73.17
+    street       status=mismatch        similarity=23.08
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven Rehabilitation & Nursing of Grove City
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 58.9
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven Rehab and Nursing of Grove City
+ID: 001TZCSTBZFM6K5BGN
+Score: 97.41
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven rehabilitation nursing of grove city CRM=bellhaven rehab and nursing of grove city status=close_match     similarity=89.66
+  street       website=3985 broadway                       CRM=3985 broadway                       status=exact_match     similarity=100.0
+  zip          website=43123                               CRM=43123                               status=exact_match     similarity=100
+  city         website=grove city                          CRM=grove city                          status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '6145557729', 'crm_value': '6145557729', 'status': 'exact_match'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven Rehab and Nursing of Grove City | ID: 001TZCSTBZFM6K5BGN | score: 97.41 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=close_match     similarity=89.66
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Harvest Hill Nursing & Rehabilitation | ID: 001CRBM9TKD9F721PG | score: 38.51 | parent: Stonebridge Eldercare (Parent Account)
+    name         status=mismatch        similarity=51.85
+    street       status=mismatch        similarity=44.44
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marion | ID: 0015L38R1Z5947ZZP7 | score: 37.09 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=46.15
+    street       status=mismatch        similarity=44.44
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Terrace of Akron | ID: 0019Y4J61ZBG4R00CD | score: 36.98 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=50.0
+    street       status=mismatch        similarity=41.38
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 36.94 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=47.76
+    street       status=mismatch        similarity=42.86
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven at Sycamore Ridge
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 53.61
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['phone']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Sycamore Ridge
+ID: 00191H7JR16471SZ34
+Score: 98.15
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven at sycamore ridge         CRM=bellhaven of sycamore ridge         status=close_match     similarity=92.59
+  street       website=7420 sycamore ridge dr              CRM=7420 sycamore ridge dr              status=exact_match     similarity=100.0
+  zip          website=45342                               CRM=45342                               status=exact_match     similarity=100
+  city         website=miamisburg                          CRM=miamisburg                          status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '2603656510', 'crm_value': '4199827764', 'status': 'mismatch'}
+  care_type: {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}
+
+TOP CANDIDATES
+
+  Bellhaven of Sycamore Ridge | ID: 00191H7JR16471SZ34 | score: 98.15 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=close_match     similarity=92.59
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 44.54 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=62.5
+    street       status=mismatch        similarity=54.05
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Port Clinton | ID: 001UELXDAKFRKB8932 | score: 44.42 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=57.69
+    street       status=mismatch        similarity=57.14
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Defiance | ID: 001R4PXTUD9R6FNN8V | score: 43.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=58.33
+    street       status=mismatch        similarity=52.63
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Tiffin | ID: 001U6RW32TY0WSXZZB | score: 42.08 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=56.52
+    street       status=mismatch        similarity=51.28
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: The Arbors at Bellhaven - Dayton
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 54.12
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type', 'phone']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Arbors at Bellhaven Dayton
+ID: 0010KJFP601YNTZVDA
+Score: 98.21
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=the arbors at bellhaven dayton      CRM=arbors at bellhaven dayton          status=close_match     similarity=92.86
+  street       website=2210 salem ave                      CRM=2210 salem ave                      status=exact_match     similarity=100.0
+  zip          website=45406                               CRM=45406                               status=exact_match     similarity=100
+  city         website=dayton                              CRM=dayton                              status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '2602547592', 'crm_value': '2166599837', 'status': 'mismatch'}
+  care_type: {'website_value': ['memory support'], 'crm_value': ['memory care'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Arbors at Bellhaven Dayton | ID: 0010KJFP601YNTZVDA | score: 98.21 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=close_match     similarity=92.86
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Cedar Trail of Zanesville | ID: 001H1JMVZWP46D5VUF | score: 44.09 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=36.36
+    street       status=mismatch        similarity=71.43
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Sandusky | ID: 001SXSF4ELF0Z2LGDM | score: 42.09 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=47.06
+    street       status=mismatch        similarity=58.06
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Care Center of Alliance | ID: 00116ETS45BL7DTQP7 | score: 41.43 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=44.44
+    street       status=mismatch        similarity=58.06
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Rosewood Village | ID: 001KC7UVYEYAZ8M6GN | score: 41.2 | parent: 
+    name         status=mismatch        similarity=34.78
+    street       status=mismatch        similarity=64.29
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven Healthcare Centre of Ashland
+CATEGORY: match_needs_update
+REVIEW FLAG: strong_candidate
+SCORE GAP: 53.3
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type', 'phone']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven Health Care Center of Ashland
+ID: 001RJ0D7Z5MAZN5HX5
+Score: 99.02
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven healthcare centre of ashland CRM=bellhaven health care center of ashland status=close_match     similarity=96.1
+  street       website=1631 claremont ave                  CRM=1631 claremont ave                  status=exact_match     similarity=100.0
+  zip          website=44805                               CRM=44805                               status=exact_match     similarity=100
+  city         website=ashland                             CRM=ashland                             status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '5173145115', 'crm_value': '7343197813', 'status': 'mismatch'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven Health Care Center of Ashland | ID: 001RJ0D7Z5MAZN5HX5 | score: 99.02 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=close_match     similarity=96.1
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven Care Center of Alliance | ID: 00116ETS45BL7DTQP7 | score: 45.72 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=78.87
+    street       status=mismatch        similarity=45.71
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Sandusky | ID: 001SXSF4ELF0Z2LGDM | score: 42.41 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=57.63
+    street       status=mismatch        similarity=51.43
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Terrace of Akron | ID: 0019Y4J61ZBG4R00CD | score: 42.09 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=62.5
+    street       status=mismatch        similarity=47.06
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Arbors at Bellhaven Dayton | ID: 0010KJFP601YNTZVDA | score: 40.63 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=43.75
+    street       status=mismatch        similarity=56.25
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Port Clinton
+CATEGORY: ambiguous_match
+REVIEW FLAG: strong_candidate
+SCORE GAP: 8.84
+CANDIDATE COUNT: 2
+IDENTITY ESTABLISHED: False
+FIELD ISSUES: []
+ISSUE FLAGS: ['multiple_or_close_candidates']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Port Clinton
+ID: 001UELXDAKFRKB8932
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of port clinton           CRM=bellhaven of port clinton           status=exact_match     similarity=100.0
+  street       website=1420 harbor point dr                CRM=1420 harbor point dr                status=exact_match     similarity=100.0
+  zip          website=43452                               CRM=43452                               status=exact_match     similarity=100
+  city         website=port clinton                        CRM=port clinton                        status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '3307336423', 'crm_value': '6145128712', 'status': 'mismatch'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Port Clinton | ID: 001UELXDAKFRKB8932 | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Harborview Nursing & Rehab of Port Clinton | ID: 001JD2MWRA74LTSN24 | score: 91.16 | parent: Harborview Care Group (Parent Account)
+    name         status=mismatch        similarity=64.62
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Sycamore Ridge | ID: 00191H7JR16471SZ34 | score: 46.34 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=65.38
+    street       status=mismatch        similarity=57.14
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Defiance | ID: 001R4PXTUD9R6FNN8V | score: 43.8 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=65.22
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Maplewood | ID: 001L3LGR6W69J8DYYV | score: 43.49 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=68.09
+    street       status=mismatch        similarity=47.06
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven Shores of Erie
+CATEGORY: ambiguous_match
+REVIEW FLAG: strong_candidate
+SCORE GAP: 5.61
+CANDIDATE COUNT: 2
+IDENTITY ESTABLISHED: False
+FIELD ISSUES: []
+ISSUE FLAGS: ['multiple_or_close_candidates']
+
+BEST CRM CANDIDATE
+Name: Bellhaven Shores of Erie
+ID: 001CVBBCSDM7YHN220
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven shores of erie            CRM=bellhaven shores of erie            status=exact_match     similarity=100.0
+  street       website=4930 w lake rd                      CRM=4930 w lake rd                      status=exact_match     similarity=100.0
+  zip          website=16505                               CRM=16505                               status=exact_match     similarity=100
+  city         website=erie                                CRM=erie                                status=exact_match     similarity=100
+  state        website=PA                                  CRM=PA                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '6147929343', 'crm_value': '4194951741', 'status': 'mismatch'}
+  care_type: {'website_value': ['assisted living', 'memory support'], 'crm_value': ['assisted living'], 'status': 'partial_match'}
+
+TOP CANDIDATES
+
+  Bellhaven Shores of Erie | ID: 001CVBBCSDM7YHN220 | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Harborview Shores of Erie | ID: 001BLYF02K97SZLZHH | score: 94.39 | parent: Harborview Care Group (Parent Account)
+    name         status=mismatch        similarity=77.55
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven Court of Altoona | ID: 0011D2P3CWSHMF81C8 | score: 38.07 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=64.0
+    street       status=mismatch        similarity=34.48
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Amberly Gardens | ID: 00192CFL38Y0U4Q887 | score: 37.12 | parent: Stonebridge Eldercare (Parent Account)
+    name         status=mismatch        similarity=35.9
+    street       status=mismatch        similarity=51.85
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Meadville | ID: 001KC1NG7EZDEKKA3T | score: 37.05 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=69.57
+    street       status=mismatch        similarity=27.59
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Kettering
+CATEGORY: ambiguous_match
+REVIEW FLAG: ambiguous_top_candidates
+SCORE GAP: 1.2
+CANDIDATE COUNT: 3
+IDENTITY ESTABLISHED: False
+FIELD ISSUES: []
+ISSUE FLAGS: ['multiple_or_close_candidates']
+
+BEST CRM CANDIDATE
+Name: Kettering Care Centre
+ID: 001WR41PYNWXCAE2X4
+Score: 85.46
+Classification: strong_candidate
+Parent: Harborview Care Group (Parent Account)
+Parent ID: 001FJZYHR7MLFMNPLL
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of kettering              CRM=kettering care centre               status=mismatch        similarity=41.86
+  street       website=3313 wilmington pike                CRM=3313 wilmington pike                status=exact_match     similarity=100.0
+  zip          website=45429                               CRM=45429                               status=exact_match     similarity=100
+  city         website=kettering                           CRM=kettering                           status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '2312695449', 'crm_value': '4196002603', 'status': 'mismatch'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Kettering Care Centre | ID: 001WR41PYNWXCAE2X4 | score: 85.46 | parent: Harborview Care Group (Parent Account)
+    name         status=mismatch        similarity=41.86
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Kettering Nursing & Rehabilitation | ID: 0016KTS1UAWBRXS09J | score: 84.26 | parent: 
+    name         status=mismatch        similarity=37.04
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Kettering Senior Campus | ID: 001B7XZAA3AFALS9GP | score: 83.16 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=40.0
+    street       status=close_match     similarity=94.74
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Wooster | ID: 001W5G121A7SMRP58M | score: 40.4 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=76.19
+    street       status=mismatch        similarity=32.43
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Health Care Center of Ashland | ID: 001RJ0D7Z5MAZN5HX5 | score: 39.7 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=52.46
+    street       status=mismatch        similarity=47.37
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven Gardens of Monroe
+CATEGORY: ambiguous_match
+REVIEW FLAG: strong_candidate
+SCORE GAP: 10.42
+CANDIDATE COUNT: 3
+IDENTITY ESTABLISHED: False
+FIELD ISSUES: []
+ISSUE FLAGS: ['multiple_or_close_candidates']
+
+BEST CRM CANDIDATE
+Name: Bellhaven Gardens of Monroe
+ID: 001U1750VLVJAGG1S5
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven gardens of monroe         CRM=bellhaven gardens of monroe         status=exact_match     similarity=100.0
+  street       website=750 stewart rd                      CRM=750 stewart rd                      status=exact_match     similarity=100.0
+  zip          website=48162                               CRM=48162                               status=exact_match     similarity=100
+  city         website=monroe                              CRM=monroe                              status=exact_match     similarity=100
+  state        website=MI                                  CRM=MI                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '8144122218', 'crm_value': '8142912902', 'status': 'mismatch'}
+  care_type: {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}
+
+TOP CANDIDATES
+
+  Bellhaven Gardens of Monroe | ID: 001U1750VLVJAGG1S5 | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Cedar Trail of Monroe | ID: 0011AB44D05WLA9HTX | score: 89.58 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=58.33
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Monroe Gardens Care Center | ID: 00159PL81N38KM4FHM | score: 87.27 | parent: Harborview Care Group (Parent Account)
+    name         status=mismatch        similarity=49.06
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Owosso | ID: 001EGU7BMJ942ZTRE6 | score: 38.8 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=65.22
+    street       status=mismatch        similarity=35.71
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Owosso | ID: 001QU150PM4Z15UA71 | score: 38.8 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=65.22
+    street       status=mismatch        similarity=35.71
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Tiffin
+CATEGORY: potential_wrong_parent
+REVIEW FLAG: strong_candidate
+SCORE GAP: 53.03
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type', 'phone']
+ISSUE FLAGS: ['parent_mismatch', 'crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Tiffin
+ID: 001U6RW32TY0WSXZZB
+Score: 100.0
+Classification: strong_candidate
+Parent: Cedar Trail Communities (Parent Account)
+Parent ID: 001FWSQ30SFW6S7604
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of tiffin                 CRM=bellhaven of tiffin                 status=exact_match     similarity=100.0
+  street       website=45 st lawrence dr                   CRM=45 st lawrence dr                   status=exact_match     similarity=100.0
+  zip          website=44883                               CRM=44883                               status=exact_match     similarity=100
+  city         website=tiffin                              CRM=tiffin                              status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '2605892589', 'crm_value': '6148299278', 'status': 'mismatch'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Tiffin | ID: 001U6RW32TY0WSXZZB | score: 100.0 | parent: Cedar Trail Communities (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Defiance | ID: 001R4PXTUD9R6FNN8V | score: 46.97 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=80.0
+    street       status=mismatch        similarity=48.48
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 45.0 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=70.0
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Port Clinton | ID: 001UELXDAKFRKB8932 | score: 43.31 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=72.73
+    street       status=mismatch        similarity=43.24
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Sycamore Ridge | ID: 00191H7JR16471SZ34 | score: 43.17 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=60.87
+    street       status=mismatch        similarity=51.28
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Marietta
+CATEGORY: potential_wrong_parent
+REVIEW FLAG: strong_candidate
+SCORE GAP: 53.37
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type', 'phone']
+ISSUE FLAGS: ['parent_mismatch', 'crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Marietta
+ID: 001A34WFSUYHCRBLFT
+Score: 100.0
+Classification: strong_candidate
+Parent: Cedar Trail Communities (Parent Account)
+Parent ID: 001FWSQ30SFW6S7604
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of marietta               CRM=bellhaven of marietta               status=exact_match     similarity=100.0
+  street       website=805 colegate dr                     CRM=805 colegate dr                     status=exact_match     similarity=100.0
+  zip          website=45750                               CRM=45750                               status=exact_match     similarity=100
+  city         website=marietta                            CRM=marietta                            status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '6143371967', 'crm_value': '4193535019', 'status': 'mismatch'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 100.0 | parent: Cedar Trail Communities (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Sycamore Ridge | ID: 00191H7JR16471SZ34 | score: 46.63 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=70.83
+    street       status=mismatch        similarity=54.05
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Defiance | ID: 001R4PXTUD9R6FNN8V | score: 45.92 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=71.43
+    street       status=mismatch        similarity=51.61
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Tiffin | ID: 001U6RW32TY0WSXZZB | score: 45.0 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=70.0
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Wooster | ID: 001W5G121A7SMRP58M | score: 44.57 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=68.29
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven Crossings of Lima
+CATEGORY: potential_wrong_parent
+REVIEW FLAG: strong_candidate
+SCORE GAP: 56.67
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['phone']
+ISSUE FLAGS: ['parent_mismatch', 'crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven Crossings of Lima
+ID: 001LGFPBJY4N9MB6KL
+Score: 100.0
+Classification: strong_candidate
+Parent: Harborview Care Group (Parent Account)
+Parent ID: 001FJZYHR7MLFMNPLL
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven crossings of lima         CRM=bellhaven crossings of lima         status=exact_match     similarity=100.0
+  street       website=3115 n cole st                      CRM=3115 n cole st                      status=exact_match     similarity=100.0
+  zip          website=45801                               CRM=45801                               status=exact_match     similarity=100
+  city         website=lima                                CRM=lima                                status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '2315393617', 'crm_value': '7348729575', 'status': 'mismatch'}
+  care_type: {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}
+
+TOP CANDIDATES
+
+  Bellhaven Crossings of Lima | ID: 001LGFPBJY4N9MB6KL | score: 100.0 | parent: Harborview Care Group (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven Meadows of Findlay | ID: 001UKEFGADQ8YCZ4YM | score: 43.33 | parent: 
+    name         status=mismatch        similarity=65.45
+    street       status=mismatch        similarity=48.48
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Chestnut Grove Senior Living | ID: 001R4J81D1FWNQF7WW | score: 42.63 | parent: Juniper Point Healthcare (Parent Account)
+    name         status=mismatch        similarity=43.64
+    street       status=mismatch        similarity=62.07
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 42.52 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=62.5
+    street       status=mismatch        similarity=48.28
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of New Carlisle | ID: 001AQGPZ5G5VRES536 | score: 41.92 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=57.69
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Zanesville
+CATEGORY: ambiguous_match
+REVIEW FLAG: strong_candidate
+SCORE GAP: 43.91
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: False
+FIELD ISSUES: []
+ISSUE FLAGS: ['identity_not_established']
+
+BEST CRM CANDIDATE
+Name: Cedar Trail of Zanesville
+ID: 001H1JMVZWP46D5VUF
+Score: 91.67
+Classification: strong_candidate
+Parent: Cedar Trail Communities (Parent Account)
+Parent ID: 001FWSQ30SFW6S7604
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of zanesville             CRM=cedar trail of zanesville           status=mismatch        similarity=66.67
+  street       website=2680 maple ave                      CRM=2680 maple ave                      status=exact_match     similarity=100.0
+  zip          website=43701                               CRM=43701                               status=exact_match     similarity=100
+  city         website=zanesville                          CRM=zanesville                          status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '8145992533', 'crm_value': '5178178191', 'status': 'mismatch'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Cedar Trail of Zanesville | ID: 001H1JMVZWP46D5VUF | score: 91.67 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=66.67
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Rosewood Village | ID: 001KC7UVYEYAZ8M6GN | score: 47.76 | parent: 
+    name         status=mismatch        similarity=41.03
+    street       status=mismatch        similarity=78.57
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Arbors at Bellhaven Dayton | ID: 0010KJFP601YNTZVDA | score: 47.24 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=48.98
+    street       status=mismatch        similarity=71.43
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 45.08 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=72.73
+    street       status=mismatch        similarity=48.28
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Sandusky | ID: 001SXSF4ELF0Z2LGDM | score: 43.99 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=72.73
+    street       status=mismatch        similarity=45.16
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Chagrin Falls
+CATEGORY: ambiguous_match
+REVIEW FLAG: possible_candidate
+SCORE GAP: 37.7
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: False
+FIELD ISSUES: []
+ISSUE FLAGS: ['identity_not_established']
+
+BEST CRM CANDIDATE
+Name: Riverbend Manor Care Center
+ID: 001RJU1X4NBWC1Q0G7
+Score: 84.44
+Classification: possible_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of chagrin falls          CRM=riverbend manor care center         status=mismatch        similarity=37.74
+  street       website=150 river st                        CRM=150 river st                        status=exact_match     similarity=100.0
+  zip          website=44022                               CRM=44022                               status=exact_match     similarity=100
+  city         website=chagrin falls                       CRM=chagrin falls                       status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '2312837448', 'crm_value': '5174579548', 'status': 'mismatch'}
+  care_type: {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}
+
+TOP CANDIDATES
+
+  Riverbend Manor Care Center | ID: 001RJU1X4NBWC1Q0G7 | score: 84.44 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=37.74
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of New Carlisle | ID: 001AQGPZ5G5VRES536 | score: 46.74 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=70.59
+    street       status=mismatch        similarity=54.55
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Crossings of Lima | ID: 001LGFPBJY4N9MB6KL | score: 44.89 | parent: Harborview Care Group (Parent Account)
+    name         status=mismatch        similarity=64.15
+    street       status=mismatch        similarity=53.85
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Harvest Hill Estates | ID: 001FLBJX4DH6BCXLAV | score: 42.41 | parent: Juniper Point Healthcare (Parent Account)
+    name         status=mismatch        similarity=43.48
+    street       status=mismatch        similarity=61.54
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marion | ID: 0015L38R1Z5947ZZP7 | score: 42.35 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=75.56
+    street       status=mismatch        similarity=38.46
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven Willow Creek
+CATEGORY: ambiguous_match
+REVIEW FLAG: possible_candidate
+SCORE GAP: 43.4
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: False
+FIELD ISSUES: []
+ISSUE FLAGS: ['identity_not_established']
+
+BEST CRM CANDIDATE
+Name: Sunny Acres Retirement Home
+ID: 0017MN2JYAJBDS8WQZ
+Score: 82.14
+Classification: possible_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven willow creek              CRM=sunny acres retirement home         status=mismatch        similarity=28.57
+  street       website=8060 willow creek ln                CRM=8060 willow creek ln                status=exact_match     similarity=100.0
+  zip          website=49024                               CRM=49024                               status=exact_match     similarity=100
+  city         website=portage                             CRM=portage                             status=exact_match     similarity=100
+  state        website=MI                                  CRM=MI                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '4193945494', 'crm_value': '2168987925', 'status': 'mismatch'}
+  care_type: {'website_value': ['memory support'], 'crm_value': ['memory care'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Sunny Acres Retirement Home | ID: 0017MN2JYAJBDS8WQZ | score: 82.14 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=28.57
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Saline | ID: 001MVVAPY6U5TVYRC4 | score: 38.74 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=63.41
+    street       status=mismatch        similarity=36.84
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Kalamazoo | ID: 001NSHWKQD0YJLPQ20 | score: 35.71 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=59.09
+    street       status=mismatch        similarity=31.25
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Coldwater | ID: 0016PVXH4B25HWR7QE | score: 35.37 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=63.64
+    street       status=mismatch        similarity=27.03
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Owosso | ID: 001EGU7BMJ942ZTRE6 | score: 34.92 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=58.54
+    street       status=mismatch        similarity=29.41
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Ashtabula
+CATEGORY: ambiguous_match
+REVIEW FLAG: possible_candidate
+SCORE GAP: 29.04
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: False
+FIELD ISSUES: []
+ISSUE FLAGS: ['identity_not_established']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Ashtabula
+ID: 001NXP9X46CWEPSLSV
+Score: 72.5
+Classification: possible_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of ashtabula              CRM=bellhaven of ashtabula              status=exact_match     similarity=100.0
+  street       website=3156 w prospect rd                  CRM=po box 517                          status=mismatch        similarity=21.43
+  zip          website=44004                               CRM=44004                               status=exact_match     similarity=100
+  city         website=ashtabula                           CRM=ashtabula                           status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '2604404975', 'crm_value': '2604404975', 'status': 'exact_match'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Ashtabula | ID: 001NXP9X46CWEPSLSV | score: 72.5 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=mismatch        similarity=21.43
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Marietta | ID: 001A34WFSUYHCRBLFT | score: 43.46 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=74.42
+    street       status=mismatch        similarity=42.42
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Tiffin | ID: 001U6RW32TY0WSXZZB | score: 43.07 | parent: Cedar Trail Communities (Parent Account)
+    name         status=mismatch        similarity=68.29
+    street       status=mismatch        similarity=45.71
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Crossings of Lima | ID: 001LGFPBJY4N9MB6KL | score: 42.8 | parent: Harborview Care Group (Parent Account)
+    name         status=mismatch        similarity=61.22
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Defiance | ID: 001R4PXTUD9R6FNN8V | score: 42.75 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=65.12
+    street       status=mismatch        similarity=47.06
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Owosso
+CATEGORY: ambiguous_match
+REVIEW FLAG: ambiguous_top_candidates
+SCORE GAP: 0.0
+CANDIDATE COUNT: 2
+IDENTITY ESTABLISHED: False
+FIELD ISSUES: []
+ISSUE FLAGS: ['multiple_or_close_candidates']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Owosso
+ID: 001EGU7BMJ942ZTRE6
+Score: 100.0
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of owosso                 CRM=bellhaven of owosso                 status=exact_match     similarity=100.0
+  street       website=1120 w main st                      CRM=1120 w main st                      status=exact_match     similarity=100.0
+  zip          website=48867                               CRM=48867                               status=exact_match     similarity=100
+  city         website=owosso                              CRM=owosso                              status=exact_match     similarity=100
+  state        website=MI                                  CRM=MI                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '7345031363', 'crm_value': '7345031363', 'status': 'exact_match'}
+  care_type: {'website_value': ['assisted living'], 'crm_value': ['assisted living'], 'status': 'exact_match'}
+
+TOP CANDIDATES
+
+  Bellhaven of Owosso | ID: 001EGU7BMJ942ZTRE6 | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Owosso | ID: 001QU150PM4Z15UA71 | score: 100.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Saline | ID: 001MVVAPY6U5TVYRC4 | score: 45.92 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=73.68
+    street       status=mismatch        similarity=50.0
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Coldwater | ID: 0016PVXH4B25HWR7QE | score: 44.1 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=73.17
+    street       status=mismatch        similarity=45.16
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven Gardens of Monroe | ID: 001U1750VLVJAGG1S5 | score: 38.8 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=65.22
+    street       status=mismatch        similarity=35.71
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+====================================================================================================
+WEBSITE: Bellhaven of Portsmouth
+CATEGORY: match_needs_update
+REVIEW FLAG: location_conflict
+SCORE GAP: 37.84
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: True
+FIELD ISSUES: ['care_type', 'zip']
+ISSUE FLAGS: ['crm_field_discrepancies']
+
+BEST CRM CANDIDATE
+Name: Bellhaven of Portsmouth
+ID: 001CF3LDWVRGL09P4F
+Score: 80.0
+Classification: location_conflict
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of portsmouth             CRM=bellhaven of portsmouth             status=exact_match     similarity=100.0
+  street       website=2222 gallia st                      CRM=2222 gallia st                      status=exact_match     similarity=100.0
+  zip          website=45662                               CRM=45626                               status=mismatch        similarity=0
+  city         website=portsmouth                          CRM=portsmouth                          status=exact_match     similarity=100
+  state        website=OH                                  CRM=OH                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '3304312495', 'crm_value': '3304312495', 'status': 'exact_match'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Bellhaven of Portsmouth | ID: 001CF3LDWVRGL09P4F | score: 80.0 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=exact_match     similarity=100.0
+    street       status=exact_match     similarity=100.0
+    zip          status=mismatch        similarity=0
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Wooster | ID: 001W5G121A7SMRP58M | score: 42.16 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=74.42
+    street       status=mismatch        similarity=38.71
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of New Carlisle | ID: 001AQGPZ5G5VRES536 | score: 40.2 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=62.5
+    street       status=mismatch        similarity=41.67
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Port Clinton | ID: 001UELXDAKFRKB8932 | score: 39.04 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=75.0
+    street       status=mismatch        similarity=29.41
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Kalamazoo | ID: 001NSHWKQD0YJLPQ20 | score: 38.21 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=66.67
+    street       status=mismatch        similarity=61.54
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=mismatch        similarity=0
+
+====================================================================================================
+WEBSITE: Bellhaven of Chesterton
+CATEGORY: ambiguous_match
+REVIEW FLAG: strong_candidate
+SCORE GAP: 42.1
+CANDIDATE COUNT: 1
+IDENTITY ESTABLISHED: False
+FIELD ISSUES: []
+ISSUE FLAGS: ['identity_not_established']
+
+BEST CRM CANDIDATE
+Name: Chesterton Senior Commons
+ID: 0013NUZQHQUEZ8DXEG
+Score: 85.42
+Classification: strong_candidate
+Parent: Bellhaven Senior Living (Parent Account)
+Parent ID: 0015QAPLGS3FVYEEEM
+
+BEST CANDIDATE FIELD COMPARISONS
+  name         website=bellhaven of chesterton             CRM=chesterton senior commons           status=mismatch        similarity=41.67
+  street       website=1250 nw franklin st                 CRM=1250 nw franklin st                 status=exact_match     similarity=100.0
+  zip          website=46304                               CRM=46304                               status=exact_match     similarity=100
+  city         website=chesterton                          CRM=chesterton                          status=exact_match     similarity=100
+  state        website=IN                                  CRM=IN                                  status=exact_match     similarity=100
+
+BEST CANDIDATE SUPPORTING EVIDENCE
+  phone: {'website_value': '2165513978', 'crm_value': '2165513978', 'status': 'exact_match'}
+  care_type: {'website_value': ['short term rehabilitation nursing'], 'crm_value': ['skilled nursing'], 'status': 'mismatch'}
+
+TOP CANDIDATES
+
+  Chesterton Senior Commons | ID: 0013NUZQHQUEZ8DXEG | score: 85.42 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=41.67
+    street       status=exact_match     similarity=100.0
+    zip          status=exact_match     similarity=100
+    city         status=exact_match     similarity=100
+    state        status=exact_match     similarity=100
+
+  Bellhaven of Owosso | ID: 001EGU7BMJ942ZTRE6 | score: 43.32 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=71.43
+    street       status=mismatch        similarity=72.73
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=mismatch        similarity=0
+
+  Bellhaven of Owosso | ID: 001QU150PM4Z15UA71 | score: 43.32 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=71.43
+    street       status=mismatch        similarity=72.73
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=mismatch        similarity=0
+
+  Bellhaven of Goshen | ID: 001JQER1RMYKNRLNME | score: 39.05 | parent: Bellhaven Senior Living (Parent Account)
+    name         status=mismatch        similarity=76.19
+    street       status=mismatch        similarity=28.57
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
+
+  Harvest Hill Health Campus | ID: 001PTS4H6C782Q8ULB | score: 38.27 | parent: Juniper Point Healthcare (Parent Account)
+    name         status=mismatch        similarity=36.73
+    street       status=mismatch        similarity=54.55
+    zip          status=mismatch        similarity=0
+    city         status=mismatch        similarity=0
+    state        status=exact_match     similarity=100
