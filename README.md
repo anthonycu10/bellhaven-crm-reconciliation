@@ -112,7 +112,7 @@ A sample cron configuration is provided in:
 The job can run daily without human intervention. CRM modifications
 remain separate from the scheduled reconciliation.
 
-## Idempotency and safety
+## Safety
 
 Review proposals use stable issue identifiers and source hashes.
 
